@@ -1,4 +1,4 @@
-/_wpeprivate/
+
 /.wp-config.php.swo
 /.wp-config.php.swp
 /backup/wp-content/
